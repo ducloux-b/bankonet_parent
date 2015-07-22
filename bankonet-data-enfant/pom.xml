@@ -15,7 +15,7 @@
   		</activation>
   		<properties>
   			<driver.propertie>com.mysql.jdbc.Driver</driver.propertie>
-			<url.propertie>jdbc:mysql:///banque_dev</url.propertie>
+			<url.propertie>jdbc:mysql://localhost/banque-rest</url.propertie>
 			<username.propertie>root</username.propertie>
 			<password.propertie></password.propertie>
   		</properties>
