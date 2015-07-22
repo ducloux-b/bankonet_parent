@@ -1,0 +1,5 @@
+com\bankonet\application\ApplicationConfig.class
+com\bankonet\model\Employe.class
+com\bankonet\filter\CorsFilter.class
+com\bankonet\resources\EmployeResource.class
+com\bankonet\service\EmployeService.class
